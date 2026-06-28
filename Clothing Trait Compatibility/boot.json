@@ -1,0 +1,19 @@
+{
+  "name": "服裝特質補全",
+  "version": "WIP",
+  "styleFileList": [],
+  "scriptFileList_earlyload": [],
+  "scriptFileList_inject_early": [],
+  "scriptFileList_preload": [],
+  "scriptFileList": [
+   "js/clothesTraitFix.js"
+  ],
+  "tweeFileList": [],
+  "imgFileList": [],
+  "additionFile": [
+    "Readme.md"
+  ],
+    "addonPlugin": [],
+  
+  "dependenceInfo": []
+}
