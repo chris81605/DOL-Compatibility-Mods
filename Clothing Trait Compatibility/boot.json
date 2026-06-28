@@ -1,6 +1,6 @@
 {
   "name": "服裝特質補全",
-  "version": "WIP",
+  "version": "0.5beta",
   "styleFileList": [],
   "scriptFileList_earlyload": [],
   "scriptFileList_inject_early": [],
@@ -11,7 +11,7 @@
   "tweeFileList": [],
   "imgFileList": [],
   "additionFile": [
-    "Readme.md"
+    "readme.md"
   ],
     "addonPlugin": [],
   
